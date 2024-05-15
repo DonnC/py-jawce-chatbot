@@ -1,6 +1,6 @@
 # JAWCE Python ChatBot
 
-A python chatbot making use of [**JAWCE**]((https://docs.page/jawce)) engine
+A python chatbot making use of [**JAWCE**]((https://docs.page/donnc/jawce)) engine
 
 A starting basic template to demonstrate JAWCE working with any other language
 
@@ -12,7 +12,7 @@ Clone the repository and install dependencies
 $ pip install -r requirements.txt
 ```
 
-Make sure you have setup the JAWCE engine as [documented here](https://docs.page/jawce)
+Make sure you have setup the JAWCE engine as [documented here](https://docs.page/donnc/jawce)
 
 Copy and paste the folders or the contains in `templates` and `triggers`
 folder into the directory of the engine `../src/main/resources`
